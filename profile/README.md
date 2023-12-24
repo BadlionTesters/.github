@@ -1,12 +1,20 @@
-## Hi there 👋
+# Badlion Testers Organization 🚀
 
-<!--
+🎮 QA superheroes for Badlion! 🦸‍♂️
 
-**Here are some ideas to get you started:**
+## What We Do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🕵️‍♂️ **Testing and Feedback:** Closed beta testing and bug hunting for super-secret projects!
+- 🤝 **Collaboration:** Elite testers + project owners = 🔥!
+
+## Join Us
+
+Badlion Testers is invite-only. Wanna join? 📧 [Tester Application](https://support.badlion.net/hc/en-us/articles/10292427836562-Tester-Application).
+
+## Affiliated
+
+Proudly powered by Badlion and ESL Gaming Inc.! 🌐🎮
+
+## Contributors
+
+Major 🙌 to all shaping our super-secret projects!
